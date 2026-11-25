@@ -1,4 +1,4 @@
-# CS 839: Topics in Advanced Robotics (**S'26**)
+# CS 839: Full-Stack Robotics (**S'27**)
 <video autoplay loop muted playsinline style="max-width: 100%; height: auto;">
   <source src="/cs839_spring26/cs839_website_videos.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -6,10 +6,10 @@
 
 ## Information
 
-- **Time:** Tuesdays and Thursdays from 8:00 AM – 9:15 AM
+- **Time:** Tuesdays and Thursdays from 9:30 AM – 10:45 AM
 - **Location:** Morgridge Hall, Room 2538
 - **Instructor:** Mike Hagenow (mhagenow@wisc.edu)
-- **Instructor Office Hours:** Thursdays at 9:15 AM – 10:30 AM
+- **Instructor Office Hours:** Thursdays at 11:00 AM – 12:00 PM
 - **Instructor Office Location:** Morgridge Hall, Room 6584
 <!-- - **Peer Mentor (PM):** TBD
 - **PM Office Hours:** TBD
