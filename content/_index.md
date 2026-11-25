@@ -7,7 +7,7 @@
 ## Information
 
 - **Time:** Tuesdays and Thursdays from 9:30 AM – 10:45 AM
-- **Location:** Morgridge Hall, Room 2538
+- **Location:** Morgridge Hall, Room 5621
 - **Instructor:** Mike Hagenow (mhagenow@wisc.edu)
 - **Instructor Office Hours:** Thursdays at 11:00 AM – 12:00 PM
 - **Instructor Office Location:** Morgridge Hall, Room 6584
@@ -24,7 +24,7 @@
 
 ## Course Description
 
-This course surveys the methods – both classical and emergent – powering today’s modern robot systems. Topics will span a range of applications and technologies, with particular emphasis robot learning and interactive systems. The class will include reviews of key robotics concepts, training in research skills, critical reading and discussion of influential and recent literature (with student-led presentations), and a final research-oriented project.
+•	This course provides hands-on experience with the practical tools, algorithms, and theory needed to develop full-stack robot manipulation systems. Topics will span robot kinematics and control, design and fabrication, robot learning, and system evaluation. The course will combine a review of core concepts with modern approaches, including critical reading and discussion of recent literature. Through hands-on assignments, students will design and implement course concepts on simulated and physical robot manipulators.
 
 <!-- ## Prerequisites
 
