@@ -1,276 +1,276 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on CS839 Topics in Advanced Robotics</title><link>https://wisc-rt2.github.io/cs839_spring26/docs/</link><description>Recent content in Docs on CS839 Topics in Advanced Robotics</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://wisc-rt2.github.io/cs839_spring26/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Syllabus</title><link>https://wisc-rt2.github.io/cs839_spring26/docs/syllabus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs839_spring26/docs/syllabus/</guid><description>&lt;h1 id="syllabus">Syllabus&lt;a class="anchor" href="#syllabus">#&lt;/a>&lt;/h1>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; border: 2px solid #8E1E24; border-radius: 8px;">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on CS839 Full-Stack Robotics</title><link>https://wisc-rt2.github.io/cs839_spring27/docs/</link><description>Recent content in Docs on CS839 Full-Stack Robotics</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://wisc-rt2.github.io/cs839_spring27/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Syllabus</title><link>https://wisc-rt2.github.io/cs839_spring27/docs/syllabus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs839_spring27/docs/syllabus/</guid><description>&lt;h1 id="syllabus"&gt;Syllabus&lt;a class="anchor" href="#syllabus" aria-label="Link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; border: 2px solid #8E1E24; border-radius: 8px;"&gt;
  &lt;iframe src="https://docs.google.com/document/d/e/2PACX-1vQBPr1NEDQOBEhoAgO3jIhy0ZIjyRSDh5peTn_rMiOJdKEZ_qjPzsY73UF3Aiunbg/pub?embedded=true" 
  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px;" 
- frameborder="0">&lt;/iframe>
-&lt;/div>
-&lt;br>
-&lt;a href="https://docs.google.com/document/d/1ncjARaYHnS25ipveq-fiLE0iYkx4hVqF/edit?usp=sharing&amp;ouid=117057397798946903044&amp;rtpof=true&amp;sd=true">Link to syllabus.&lt;/a></description></item><item><title>Schedule</title><link>https://wisc-rt2.github.io/cs839_spring26/docs/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs839_spring26/docs/schedule/</guid><description>&lt;h1 id="schedule">Schedule&lt;a class="anchor" href="#schedule">#&lt;/a>&lt;/h1>
-&lt;p>&lt;i>Note:The schedule below is tentative and subject to change.&lt;/i>&lt;/p>
-&lt;hr>
-&lt;h2 id="-module-1-fundamentals">🧭 Module 1: Fundamentals&lt;a class="anchor" href="#-module-1-fundamentals">#&lt;/a>&lt;/h2>
-&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 1 — Tue, Jan 20, 2026&lt;/b>&lt;br>
-&lt;b>Introduction&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Introduce the course goals, expectations, and format.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>Slides: &lt;a href="https://drive.google.com/file/d/1K3uRh_A4h-8bVBfEjeVWWlC0mLhdeje3/view?usp=sharing">LINK TO SLIDES&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 2 — Thu, Jan 22, 2026&lt;/b>&lt;br>
-&lt;b>Fundamentals Primer &amp; The Paper "Draft"&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Quick review of common terms and formulations in robotics literature and in-class sign up for paper presentations.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>Slides: &lt;a href="https://drive.google.com/file/d/1n8M7EH3Zemui0i0eWevc2d_-1MzQ_AGo/view?usp=sharing">LINK TO SLIDES&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;!-- &lt;b>Additional Resources:&lt;/b>
-&lt;ul>
-&lt;li>&lt;a href="https://link.springer.com/book/10.1007/978-3-540-30301-5">Springer Handbook of Robotics (Chapters TBD)&lt;/a>&lt;/li>
-&lt;/ul> -->
-&lt;/div>
-&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 3 — Tue, Jan 27, 2026&lt;/b>&lt;br>
-&lt;b>Fundamentals 1: The Needs and Opportunities of Robots&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>We will start with a broad perspective about opportunities for robots and research progress over a longer horizon.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>&lt;a href="https://ieeexplore.ieee.org/document/4141037">The Evolution of Robotics Research — From Industrial Robotics to Field and Service Robotics&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://ieeexplore.ieee.org/abstract/document/9080724">Collaborative Robots and Industrial Revolution 4.0 (IR 4.0)&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 4 — Thu, Jan 29, 2026&lt;/b>&lt;br>
-&lt;b>Fundamentals 2: Moving Your Robot &amp; Robot Systems&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Robot research often involves deploying full-stack systems and inverse kinematics techniques.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>&lt;a href="https://arxiv.org/abs/1910.03135">DexPilot: Vision-Based Teleoperation of Dexterous Robotic Hand–Arm Systems&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://m.roboticsproceedings.org/rss14/p43.pdf">RelaxedIK: Real-time Synthesis of Accurate and Feasible Robot Arm Motion&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 5 — Tue, Feb 3, 2026&lt;/b>&lt;br>
-&lt;b>Fundamentals 3: Planning Motions&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Review of common planning techniques and modern optimization-based approaches.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>&lt;a href="https://lavalle.pl/papers/Lav11b.pdf">Motion Planning: The Essentials&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2205.04422">Motion Planning Around Obstacles with Convex Optimization&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;b>Additional Resources:&lt;/b>
-&lt;ul>
-&lt;li>&lt;a href="https://arxiv.org/abs/2406.02807">Collision-Affording Point Trees&lt;/a>&lt;span style="color:blue;"> (recent high-performance path planning RSS paper)&lt;/span>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;hr>
-&lt;h2 id="-module-2-learning">🤖 Module 2: Learning&lt;a class="anchor" href="#-module-2-learning">#&lt;/a>&lt;/h2>
-&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 6 — Thu, Feb 5, 2026&lt;/b>&lt;br>
-&lt;b>Learning Primer&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Review high-level robot learning architectures and approaches.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>Slides: &lt;a href="https://drive.google.com/file/d/1pnC04U0BNRjdLn0U-mKH0MyFOsjvCuKk/view?usp=sharing">LINK TO SLIDES&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;!-- &lt;b>Additional Resources:&lt;/b>
-&lt;ul>
-&lt;li>&lt;a href="https://papers.nips.cc/paper/1988/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf">ALVINN: An Autonomous Land Vehicle in a Neural Network&lt;/a>&lt;span style="color:blue;"> (original BC paper)&lt;/span>&lt;/li>
-&lt;/ul> -->
-&lt;/div>
-&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 7 — Tue, Feb 10, 2026&lt;/b>&lt;br>
-&lt;b>Learning 1: Foundations&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Review classical learning techniques including movement primitives and behavior cloning.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>&lt;a href="https://www.pure.ed.ac.uk/ws/portalfiles/portal/7874487/NECO_a_00393.pdf">Dynamical Movement Primitives: Learning Attractor Models for Motor Behaviors&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/1805.01954">Behavioral Cloning from Observation&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;b>Additional Resources:&lt;/b>
-&lt;ul>
-&lt;li>&lt;a href="https://papers.nips.cc/paper/1988/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf">ALVINN: An Autonomous Land Vehicle in a Neural Network&lt;/a>&lt;span style="color:blue;"> (original BC paper)&lt;/span>&lt;/li>
-&lt;li>&lt;a href="https://proceedings.neurips.cc/paper_files/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf">Generative Adversarial Imitation Learning&lt;/a>&lt;span style="color:blue;"> (another historically popular learning technique)&lt;/span>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 8 — Thu, Feb 12, 2026&lt;/b>&lt;br>
-&lt;b>Learning 2: End-to-End &amp; Meta-Learning&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Review impactful works enabling end-to-end learning and meta-learning approaches.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>&lt;a href="https://arxiv.org/abs/1504.00702">End-to-End Training of Deep Visuomotor Policies&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/1703.03400">Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 9 — Tue, Feb 17, 2026&lt;/b>&lt;br>
-&lt;b>Learning 3: Intermediate Representations&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Explore learning with inferred reward functions and hierarchical correction.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>&lt;a href="https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf">Maximum Entropy Inverse Reinforcement Learning&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2403.12910">Yell At Your Robot: Improving On-the-Fly from Language Corrections&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 10 — Thu, Feb 19, 2026&lt;/b>&lt;br>
-&lt;b>Literature Review Workshop&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Discuss and explore strategies for finding and evaluating robotics research.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>Slides: &lt;a href="https://drive.google.com/file/d/1TkKPSqObtneDWpg5yEtnzPyCCP1hY6mK/view?usp=sharing">LINK TO SLIDES&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 11 — Tue, Feb 24, 2026&lt;/b>&lt;br>
-&lt;b>Learning 4: The Rise of Generative Learning&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Discuss a recent inflection point in generative robotic capabilities.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>&lt;a href="https://say-can.github.io/assets/palm_saycan.pdf">Do As I Can, Not As I Say: Grounding Language in Robotic Affordances&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2303.04137v4">Diffusion Policy: Visuomotor Policy Learning via Action Diffusion&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 12 — Thu, Feb 26, 2026&lt;/b>&lt;br>
-&lt;b>Learning 5: Practical Considerations&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Look at small design choices that impact learning systems.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>&lt;a href="https://arxiv.org/abs/2108.03298">What Matters in Learning from Offline Data&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/1812.07035">Continuity of Rotation Representations &lt;/a>&lt;span style="color: red;">[OPTIONAL]&lt;/span>&lt;/li>
-&lt;/ul>
-&lt;b>Additional Resources:&lt;/b>
-&lt;ul>
-&lt;li>&lt;a href="https://arxiv.org/abs/2512.01809">Much Ado About Noising: Dispelling the Myths of Generative Robotic Control
-&lt;/a>&lt;span style="color:blue;"> (recent work questioning the need for architectural components in robotics generative models)&lt;/span>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 13 — Tue, Mar 3, 2026&lt;/b>&lt;br>
-&lt;b>Learning 6: Frontiers&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Look at recent VLAs, including an industry model and an emerging video model.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>&lt;a href="https://www.pi.website/download/pistar06.pdf">π∗ 0.6: a VLA That Learns From Experience&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2512.15692">mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs
-&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;hr>
-&lt;h2 id="-module-3-interactive-systems">🧠 Module 3: Interactive Systems&lt;a class="anchor" href="#-module-3-interactive-systems">#&lt;/a>&lt;/h2>
-&lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 14 — Thu, Mar 5, 2026&lt;/b>&lt;br>
-&lt;b>Interactive Systems Primer&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Introduce challenges and approaches for robot systems that work with people.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>Slides: &lt;a href="https://drive.google.com/file/d/1nxTpv-cNiseMorgd0_0vkBPbzrTnHQJf/view?usp=sharing">LINK TO SLIDES&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;b>Additional Resources:&lt;/b>
-&lt;ul>
-&lt;li>&lt;a href="https://dl.acm.org/doi/10.1145/3412374">A Primer for Conducting Experiments in Human–Robot Interaction
-&lt;/a>&lt;span style="color:blue;"> (advice for structuring HRI experiments)&lt;/span>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 15 — Tue, Mar 10, 2026&lt;/b>&lt;br>
-&lt;b>Interactive Systems 1: Teleoperation &amp; Simplifying Human Input&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Investigate lower level of autonomy systems for people to drive robot behavior.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>&lt;a href="https://arxiv.org/abs/2407.01512">Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
-&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2107.02907">Learning Latent Actions to Control Assistive Robots
-&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;!-- &lt;b>Additional Resources:&lt;/b>
-&lt;ul>
-&lt;li>&lt;a href="">LINK&lt;/a>&lt;/li>
-&lt;/ul> -->
-&lt;/div>
-&lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 16 — Thu, Mar 12, 2026&lt;/b>&lt;br>
-&lt;b>Implement Something: Mini Presentations&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Lightning presentations of your mini implementation projects&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>Presentation slides: LINK COMING SOON.&lt;/li>
-&lt;/ul>
-&lt;!-- &lt;b>Additional Resources:&lt;/b>
-&lt;ul>
-&lt;li>&lt;a href="">LINK&lt;/a>&lt;/li>
-&lt;/ul> -->
-&lt;/div>
-&lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 17 — Tue, Mar 17, 2026&lt;/b>&lt;br>
-&lt;b>ASYNCHRONOUS: Large Behavior Models&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>TRI has been one company leading the push on developing and evaluating foundation models for robotics. We will watch and dicuss a seminar related to their work.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>Watch &lt;a href="https://www.youtube.com/watch?v=TN1M6vg4CsQ">this lecture by Russ Tedrake&lt;/a> and comment on the piazza post&lt;/li>
-&lt;/ul>
-&lt;b>Additional Resources:&lt;/b>
-&lt;ul>
-&lt;li>&lt;a href="https://arxiv.org/abs/2507.05331">A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation
-&lt;/a>&lt;span style="color:blue;"> (complementary paper later released by Toyota Research Institute)&lt;/span>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 18 — Thu, Mar 19, 2026&lt;/b>&lt;br>
-&lt;b>ASYNCHRONOUS: The Trajectory of Robotics Research and Human-Centered Robots&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>Watch &lt;a href="https://www.youtube.com/watch?v=4fDASBn7gaU">this lecture by Rodney Brooks&lt;/a> and comment on the piazza post&lt;/li>
-&lt;/ul>
-&lt;b>Additional Resources:&lt;/b>
-&lt;ul>
-&lt;li>&lt;a href="http://rodneybrooks.com/predictions-scorecard-2026-january-01/">Rodney Brooks Prediction Scorecard&lt;/a>&lt;span style="color:blue;"> (yearly assessment of AV/Robotics Progress and outlook)&lt;/span>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 19 — Tue, Mar 24, 2026&lt;/b>&lt;br>
-&lt;b>Interactive Systems 2: Human–Robot Collaboration&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Introduces methods for settings of human-robot collaboration.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>&lt;a href="https://ieeexplore.ieee.org/abstract/document/10301659">An Ergo-Interactive Framework for Human-Robot Collaboration Via Learning From Demonstration
-&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/1802.01780">Goal Inference Improves Objective and Perceived Performance in Human-Robot Collaboration
-&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;!-- &lt;b>Additional Resources:&lt;/b>
-&lt;ul>
-&lt;li>&lt;a href="">LINK&lt;/a>&lt;/li>
-&lt;/ul> -->
-&lt;/div>
-&lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Class 20 — Thu, Mar 26, 2026&lt;/b>&lt;br>
-&lt;b>Interactive Systems 3: Shared Autonomy&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Introduces a classical and recent generative method for shared autonomy.&lt;/i>&lt;br>
-&lt;ul>
-&lt;li>&lt;a href="https://www.ri.cmu.edu/pub_files/2013/5/assistive_teleop_IJRR.pdf">A policy-blending formalism for shared control
-&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2302.12244">To the Noise and Back: Diffusion for Shared Autonomy
-&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;!-- &lt;b>Additional Resources:&lt;/b>
-&lt;ul>
-&lt;li>&lt;a href="">LINK&lt;/a>&lt;/li>
-&lt;/ul> -->
-&lt;/div>
-&lt;hr>
-&lt;p>&lt;i>&lt;b>Spring Break:&lt;/b>Tue, Mar 31 &amp;amp; Thu, Apr 2 (No class)&lt;/i>&lt;/p></description></item><item><title>Assignments</title><link>https://wisc-rt2.github.io/cs839_spring26/docs/assignments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs839_spring26/docs/assignments/</guid><description>&lt;h1 id="assignment-details-and-links">Assignment Details (and links)&lt;a class="anchor" href="#assignment-details-and-links">#&lt;/a>&lt;/h1>
-&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Paper Presentations&lt;/b>&lt;br>
-&lt;ul>
-&lt;li>Paper sign-up sheet: &lt;a href="https://docs.google.com/spreadsheets/d/1B2WB_XbkL7-giUngMuPmiiVAeeuTAu4lY4KOJkjQCM4/edit?usp=sharing">LINK&lt;/a>&lt;/li>
-&lt;li>Google Slides Template: &lt;a href="https://docs.google.com/presentation/d/1cWYjXQWzqkfnhhN8FrIJJ6lXDHJU-O5sqEjwT0tR4Ww/edit?usp=sharing">LINK&lt;/a>&lt;/li>
-&lt;li>Instructions and Rubric: &lt;a href="https://drive.google.com/file/d/1UFc47Dm6a8kp4w688LrgrK5tjO2XobJY/view?usp=sharing">LINK&lt;/a>&lt;/li>
-&lt;li>Piazza post with slides and discussion topic &lt;b>due 5pm the day before the presentation&lt;/b>.&lt;/li>
-&lt;li>Piazza reply with discussion summary &lt;b>due 5pm the day after the presentation&lt;/b>.&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>'Implement Something' Assignment / Presentation&lt;/b>&lt;br>
-&lt;ul>
-&lt;li>Slides due &lt;i>3/11 by 5pm&lt;/i>.
-&lt;li>Slide upload link: &lt;a href="https://docs.google.com/presentation/d/151h7bhtnDdss7Y7GBS-EYxyc9vqG7G7DHHJRPr-M820/edit?usp=sharing">LINK&lt;/a>
-&lt;li>Instructions and Rubric: &lt;a href="https://drive.google.com/file/d/166PRiPcLEh1zfBii2hpRJUmamksPFyt0/view?usp=sharing">LINK&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Final Project&lt;/b>&lt;br>
-&lt;ul>
-&lt;li>Project Proposal due &lt;i>3/26 by 5pm&lt;/i>.
-&lt;li>Slides due &lt;i>4/27 by 5pm&lt;/i>.
-&lt;li>Final Report/Website due &lt;i>5/6 by 5pm&lt;/i>. 
-&lt;li>Instructions and Rubric: &lt;a href="https://drive.google.com/file/d/1yRyIQ1O_wpCienzzBQ_Da_PK5QVkjZks/view?usp=sharing">LINK&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;hr></description></item></channel></rss>
+ frameborder="0"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;a href="https://docs.google.com/document/d/1ncjARaYHnS25ipveq-fiLE0iYkx4hVqF/edit?usp=sharing&amp;ouid=117057397798946903044&amp;rtpof=true&amp;sd=true"&gt;Link to syllabus.&lt;/a&gt;</description></item><item><title>Schedule</title><link>https://wisc-rt2.github.io/cs839_spring27/docs/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs839_spring27/docs/schedule/</guid><description>&lt;h1 id="schedule"&gt;Schedule&lt;a class="anchor" href="#schedule" aria-label="Link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;i&gt;Note:The schedule below is tentative and subject to change.&lt;/i&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="-module-1-fundamentals"&gt;🧭 Module 1: Fundamentals&lt;a class="anchor" href="#-module-1-fundamentals" aria-label="Link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 1 — Tue, Jan 20, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Introduction&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Introduce the course goals, expectations, and format.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides: &lt;a href="https://drive.google.com/file/d/1K3uRh_A4h-8bVBfEjeVWWlC0mLhdeje3/view?usp=sharing"&gt;LINK TO SLIDES&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 2 — Thu, Jan 22, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Fundamentals Primer &amp; The Paper "Draft"&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Quick review of common terms and formulations in robotics literature and in-class sign up for paper presentations.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides: &lt;a href="https://drive.google.com/file/d/1n8M7EH3Zemui0i0eWevc2d_-1MzQ_AGo/view?usp=sharing"&gt;LINK TO SLIDES&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- &lt;b&gt;Additional Resources:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://link.springer.com/book/10.1007/978-3-540-30301-5"&gt;Springer Handbook of Robotics (Chapters TBD)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt; --&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 3 — Tue, Jan 27, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Fundamentals 1: The Needs and Opportunities of Robots&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;We will start with a broad perspective about opportunities for robots and research progress over a longer horizon.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://ieeexplore.ieee.org/document/4141037"&gt;The Evolution of Robotics Research — From Industrial Robotics to Field and Service Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ieeexplore.ieee.org/abstract/document/9080724"&gt;Collaborative Robots and Industrial Revolution 4.0 (IR 4.0)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 4 — Thu, Jan 29, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Fundamentals 2: Moving Your Robot &amp; Robot Systems&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Robot research often involves deploying full-stack systems and inverse kinematics techniques.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/1910.03135"&gt;DexPilot: Vision-Based Teleoperation of Dexterous Robotic Hand–Arm Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://m.roboticsproceedings.org/rss14/p43.pdf"&gt;RelaxedIK: Real-time Synthesis of Accurate and Feasible Robot Arm Motion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 5 — Tue, Feb 3, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Fundamentals 3: Planning Motions&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Review of common planning techniques and modern optimization-based approaches.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://lavalle.pl/papers/Lav11b.pdf"&gt;Motion Planning: The Essentials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2205.04422"&gt;Motion Planning Around Obstacles with Convex Optimization&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;b&gt;Additional Resources:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2406.02807"&gt;Collision-Affording Point Trees&lt;/a&gt;&lt;span style="color:blue;"&gt; (recent high-performance path planning RSS paper)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-module-2-learning"&gt;🤖 Module 2: Learning&lt;a class="anchor" href="#-module-2-learning" aria-label="Link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 6 — Thu, Feb 5, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Learning Primer&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Review high-level robot learning architectures and approaches.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides: &lt;a href="https://drive.google.com/file/d/1pnC04U0BNRjdLn0U-mKH0MyFOsjvCuKk/view?usp=sharing"&gt;LINK TO SLIDES&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- &lt;b&gt;Additional Resources:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://papers.nips.cc/paper/1988/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf"&gt;ALVINN: An Autonomous Land Vehicle in a Neural Network&lt;/a&gt;&lt;span style="color:blue;"&gt; (original BC paper)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt; --&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 7 — Tue, Feb 10, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Learning 1: Foundations&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Review classical learning techniques including movement primitives and behavior cloning.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.pure.ed.ac.uk/ws/portalfiles/portal/7874487/NECO_a_00393.pdf"&gt;Dynamical Movement Primitives: Learning Attractor Models for Motor Behaviors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/1805.01954"&gt;Behavioral Cloning from Observation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;b&gt;Additional Resources:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://papers.nips.cc/paper/1988/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf"&gt;ALVINN: An Autonomous Land Vehicle in a Neural Network&lt;/a&gt;&lt;span style="color:blue;"&gt; (original BC paper)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://proceedings.neurips.cc/paper_files/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf"&gt;Generative Adversarial Imitation Learning&lt;/a&gt;&lt;span style="color:blue;"&gt; (another historically popular learning technique)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 8 — Thu, Feb 12, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Learning 2: End-to-End &amp; Meta-Learning&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Review impactful works enabling end-to-end learning and meta-learning approaches.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/1504.00702"&gt;End-to-End Training of Deep Visuomotor Policies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/1703.03400"&gt;Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 9 — Tue, Feb 17, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Learning 3: Intermediate Representations&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Explore learning with inferred reward functions and hierarchical correction.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf"&gt;Maximum Entropy Inverse Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2403.12910"&gt;Yell At Your Robot: Improving On-the-Fly from Language Corrections&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 10 — Thu, Feb 19, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Literature Review Workshop&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Discuss and explore strategies for finding and evaluating robotics research.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides: &lt;a href="https://drive.google.com/file/d/1TkKPSqObtneDWpg5yEtnzPyCCP1hY6mK/view?usp=sharing"&gt;LINK TO SLIDES&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 11 — Tue, Feb 24, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Learning 4: The Rise of Generative Learning&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Discuss a recent inflection point in generative robotic capabilities.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://say-can.github.io/assets/palm_saycan.pdf"&gt;Do As I Can, Not As I Say: Grounding Language in Robotic Affordances&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2303.04137v4"&gt;Diffusion Policy: Visuomotor Policy Learning via Action Diffusion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 12 — Thu, Feb 26, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Learning 5: Practical Considerations&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Look at small design choices that impact learning systems.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2108.03298"&gt;What Matters in Learning from Offline Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/1812.07035"&gt;Continuity of Rotation Representations &lt;/a&gt;&lt;span style="color: red;"&gt;[OPTIONAL]&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;b&gt;Additional Resources:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2512.01809"&gt;Much Ado About Noising: Dispelling the Myths of Generative Robotic Control
+&lt;/a&gt;&lt;span style="color:blue;"&gt; (recent work questioning the need for architectural components in robotics generative models)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 13 — Tue, Mar 3, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Learning 6: Frontiers&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Look at recent VLAs, including an industry model and an emerging video model.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.pi.website/download/pistar06.pdf"&gt;π∗ 0.6: a VLA That Learns From Experience&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2512.15692"&gt;mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-module-3-interactive-systems"&gt;🧠 Module 3: Interactive Systems&lt;a class="anchor" href="#-module-3-interactive-systems" aria-label="Link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 14 — Thu, Mar 5, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Interactive Systems Primer&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Introduce challenges and approaches for robot systems that work with people.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides: &lt;a href="https://drive.google.com/file/d/1nxTpv-cNiseMorgd0_0vkBPbzrTnHQJf/view?usp=sharing"&gt;LINK TO SLIDES&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;b&gt;Additional Resources:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://dl.acm.org/doi/10.1145/3412374"&gt;A Primer for Conducting Experiments in Human–Robot Interaction
+&lt;/a&gt;&lt;span style="color:blue;"&gt; (advice for structuring HRI experiments)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 15 — Tue, Mar 10, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Interactive Systems 1: Teleoperation &amp; Simplifying Human Input&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Investigate lower level of autonomy systems for people to drive robot behavior.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2407.01512"&gt;Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2107.02907"&gt;Learning Latent Actions to Control Assistive Robots
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- &lt;b&gt;Additional Resources:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=""&gt;LINK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt; --&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 16 — Thu, Mar 12, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Implement Something: Mini Presentations&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Lightning presentations of your mini implementation projects&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation slides: LINK COMING SOON.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- &lt;b&gt;Additional Resources:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=""&gt;LINK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt; --&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 17 — Tue, Mar 17, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;ASYNCHRONOUS: Large Behavior Models&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;TRI has been one company leading the push on developing and evaluating foundation models for robotics. We will watch and dicuss a seminar related to their work.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Watch &lt;a href="https://www.youtube.com/watch?v=TN1M6vg4CsQ"&gt;this lecture by Russ Tedrake&lt;/a&gt; and comment on the piazza post&lt;/li&gt;
+&lt;/ul&gt;
+&lt;b&gt;Additional Resources:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2507.05331"&gt;A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation
+&lt;/a&gt;&lt;span style="color:blue;"&gt; (complementary paper later released by Toyota Research Institute)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 18 — Thu, Mar 19, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;ASYNCHRONOUS: The Trajectory of Robotics Research and Human-Centered Robots&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Watch &lt;a href="https://www.youtube.com/watch?v=4fDASBn7gaU"&gt;this lecture by Rodney Brooks&lt;/a&gt; and comment on the piazza post&lt;/li&gt;
+&lt;/ul&gt;
+&lt;b&gt;Additional Resources:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://rodneybrooks.com/predictions-scorecard-2026-january-01/"&gt;Rodney Brooks Prediction Scorecard&lt;/a&gt;&lt;span style="color:blue;"&gt; (yearly assessment of AV/Robotics Progress and outlook)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 19 — Tue, Mar 24, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Interactive Systems 2: Human–Robot Collaboration&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Introduces methods for settings of human-robot collaboration.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://ieeexplore.ieee.org/abstract/document/10301659"&gt;An Ergo-Interactive Framework for Human-Robot Collaboration Via Learning From Demonstration
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/1802.01780"&gt;Goal Inference Improves Objective and Perceived Performance in Human-Robot Collaboration
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- &lt;b&gt;Additional Resources:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=""&gt;LINK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt; --&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Class 20 — Thu, Mar 26, 2026&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Interactive Systems 3: Shared Autonomy&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Goal: &lt;/b&gt;&lt;i&gt;Introduces a classical and recent generative method for shared autonomy.&lt;/i&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.ri.cmu.edu/pub_files/2013/5/assistive_teleop_IJRR.pdf"&gt;A policy-blending formalism for shared control
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2302.12244"&gt;To the Noise and Back: Diffusion for Shared Autonomy
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- &lt;b&gt;Additional Resources:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=""&gt;LINK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt; --&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;i&gt;&lt;b&gt;Spring Break:&lt;/b&gt;Tue, Mar 31 &amp;amp; Thu, Apr 2 (No class)&lt;/i&gt;&lt;/p&gt;</description></item><item><title>Assignments</title><link>https://wisc-rt2.github.io/cs839_spring27/docs/assignments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs839_spring27/docs/assignments/</guid><description>&lt;h1 id="assignment-details-and-links"&gt;Assignment Details (and links)&lt;a class="anchor" href="#assignment-details-and-links" aria-label="Link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Paper Presentations&lt;/b&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Paper sign-up sheet: &lt;a href="https://docs.google.com/spreadsheets/d/1B2WB_XbkL7-giUngMuPmiiVAeeuTAu4lY4KOJkjQCM4/edit?usp=sharing"&gt;LINK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Slides Template: &lt;a href="https://docs.google.com/presentation/d/1cWYjXQWzqkfnhhN8FrIJJ6lXDHJU-O5sqEjwT0tR4Ww/edit?usp=sharing"&gt;LINK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Instructions and Rubric: &lt;a href="https://drive.google.com/file/d/1UFc47Dm6a8kp4w688LrgrK5tjO2XobJY/view?usp=sharing"&gt;LINK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Piazza post with slides and discussion topic &lt;b&gt;due 5pm the day before the presentation&lt;/b&gt;.&lt;/li&gt;
+&lt;li&gt;Piazza reply with discussion summary &lt;b&gt;due 5pm the day after the presentation&lt;/b&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;'Implement Something' Assignment / Presentation&lt;/b&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides due &lt;i&gt;3/11 by 5pm&lt;/i&gt;.
+&lt;li&gt;Slide upload link: &lt;a href="https://docs.google.com/presentation/d/151h7bhtnDdss7Y7GBS-EYxyc9vqG7G7DHHJRPr-M820/edit?usp=sharing"&gt;LINK&lt;/a&gt;
+&lt;li&gt;Instructions and Rubric: &lt;a href="https://drive.google.com/file/d/166PRiPcLEh1zfBii2hpRJUmamksPFyt0/view?usp=sharing"&gt;LINK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;"&gt;
+&lt;b&gt;Final Project&lt;/b&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Project Proposal due &lt;i&gt;3/26 by 5pm&lt;/i&gt;.
+&lt;li&gt;Slides due &lt;i&gt;4/27 by 5pm&lt;/i&gt;.
+&lt;li&gt;Final Report/Website due &lt;i&gt;5/6 by 5pm&lt;/i&gt;. 
+&lt;li&gt;Instructions and Rubric: &lt;a href="https://drive.google.com/file/d/1yRyIQ1O_wpCienzzBQ_Da_PK5QVkjZks/view?usp=sharing"&gt;LINK&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr&gt;</description></item></channel></rss>
