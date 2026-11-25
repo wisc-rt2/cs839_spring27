@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on CS839 Full-Stack Robotics</title><link>https://wisc-rt2.github.io/cs839_spring27/docs/</link><description>Recent content in Docs on CS839 Full-Stack Robotics</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://wisc-rt2.github.io/cs839_spring27/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Syllabus</title><link>https://wisc-rt2.github.io/cs839_spring27/docs/syllabus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs839_spring27/docs/syllabus/</guid><description>&lt;h1 id="syllabus"&gt;Syllabus&lt;a class="anchor" href="#syllabus" aria-label="Link"&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; border: 2px solid #8E1E24; border-radius: 8px;"&gt;
+&lt;p&gt;TBD!&lt;/p&gt;
+&lt;!-- &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; border: 2px solid #8E1E24; border-radius: 8px;"&gt;
  &lt;iframe src="https://docs.google.com/document/d/e/2PACX-1vQBPr1NEDQOBEhoAgO3jIhy0ZIjyRSDh5peTn_rMiOJdKEZ_qjPzsY73UF3Aiunbg/pub?embedded=true" 
  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px;" 
  frameborder="0"&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;br&gt;
-&lt;a href="https://docs.google.com/document/d/1ncjARaYHnS25ipveq-fiLE0iYkx4hVqF/edit?usp=sharing&amp;ouid=117057397798946903044&amp;rtpof=true&amp;sd=true"&gt;Link to syllabus.&lt;/a&gt;</description></item><item><title>Schedule</title><link>https://wisc-rt2.github.io/cs839_spring27/docs/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs839_spring27/docs/schedule/</guid><description>&lt;h1 id="schedule"&gt;Schedule&lt;a class="anchor" href="#schedule" aria-label="Link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;a href="https://docs.google.com/document/d/1ncjARaYHnS25ipveq-fiLE0iYkx4hVqF/edit?usp=sharing&amp;ouid=117057397798946903044&amp;rtpof=true&amp;sd=true"&gt;Link to syllabus.&lt;/a&gt; --&gt;</description></item><item><title>Schedule</title><link>https://wisc-rt2.github.io/cs839_spring27/docs/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs839_spring27/docs/schedule/</guid><description>&lt;h1 id="schedule"&gt;Schedule&lt;a class="anchor" href="#schedule" aria-label="Link"&gt;&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;i&gt;Note:The schedule below is tentative and subject to change.&lt;/i&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id="-module-1-fundamentals"&gt;🧭 Module 1: Fundamentals&lt;a class="anchor" href="#-module-1-fundamentals" aria-label="Link"&gt;&lt;/a&gt;&lt;/h2&gt;
