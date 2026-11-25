@@ -1,15 +1,21 @@
 {
-  "name": "CS839 Topics in Advanced Robotics",
-  "short_name": "CS839 Topics in Advanced Robotics",
-  "start_url": "/cs839_spring26/",
-  "scope": "/cs839_spring26/",
+  "name": "CS839 Full-Stack Robotics",
+  "short_name": "CS839 Full-Stack Robotics",
+  "start_url": "/cs839_spring27/",
+  "scope": "/cs839_spring27/",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
   "icons": [
     {
-      "src": "/cs839_spring26/favicon.svg",
-      "sizes": "512x512"
+      "type": "image/png",
+      "src": "/cs839_spring27/favicon.png",
+      "sizes": "96x96"
+    },
+    {
+      "type": "image/svg+xml",
+      "src": "/cs839_spring27/favicon.svg",
+      "sizes": "any"
     }
   ]
 }
