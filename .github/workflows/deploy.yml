@@ -1,9 +1,9 @@
-name: Build and deploy Hugo site to master/docs for class
+name: Build and deploy Hugo site to main/docs for class
 
 on:
   push:
     branches:
-      - master
+      - main
 
 permissions:
   contents: write
