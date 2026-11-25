@@ -1,0 +1,15 @@
+{
+  "name": "CS839 Topics in Advanced Robotics",
+  "short_name": "CS839 Topics in Advanced Robotics",
+  "start_url": "/cs839_spring26/",
+  "scope": "/cs839_spring26/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/cs839_spring26/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
